@@ -1,4 +1,4 @@
-## Java-Junit-Selenium-Jenkins
+## Java-Junit-Selenium-Parallel
 
 >This code is presented as an example only, since your tests and testing environments may require specialized scripting. This information should be taken only as an
 >illustration of how one would set up tests with Sauce Labs, and any modifications will not be supported. For questions regarding Sauce Labs integration, please see 
